@@ -3,12 +3,14 @@ layout: default
 title: Research
 ---
 
+<img src="images/whirlpool_galaxy_labeled.jpg" style="width:30%; border:0px; solid; margin-top: 60px" align="right">
+
 # Research
 
 My research focuses on approximate Bayesian inference. 
 
 My primary application domain lies in variational inference for 
-large-scale astronomicy datasets. A current project involves deep generative modeling for telescope images of galaxies. I combine ideas from deep learning, Bayesian probabilistic modeling, and physics knowledge for the detection of gravitational lensing. 
+large-scale astronomy datasets. A current project involves deep generative modeling for telescope images of galaxies. I combine ideas from deep learning, Bayesian probabilistic modeling, and physics knowledge for the detection of gravitational lensing. 
 
 I also work on methods for efficient computation of Bayesian sensitivity to prior specifications in the context of variational inference.
 
