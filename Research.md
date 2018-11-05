@@ -15,12 +15,14 @@ large-scale astronomy datasets. A current project involves deep generative model
 I also work on methods for efficient quantification of Bayesian sensitivity to prior specifications in the context of variational inference.
 
 ## Publications and pre-prints
-**Liu R.**, Giordano R., Jordan M. I., Broderick T. “Evaluating Sensitivity to the Stick Breaking Prior in Bayesian Nonparametrics.” *NIPS, All of Bayesian Nonparametrics Workshop, in review.* December 2018. [https://arxiv.org/pdf/1810.06587.pdf](https://arxiv.org/pdf/1810.06587.pdf).
 
 **Liu R.**, Regier J., Tripuraneni N., Jordan M. I., McAuliffe J. "Rao-Blackwellized Stochastic Gradients for Discrete Distributions." *Conference on Artificial Intelligence and Statistics, in review*. April 2019. [https://arxiv.org/pdf/1810.04777.pdf](https://arxiv.org/pdf/1810.04777.pdf). 
 
 Giordano R., Stephenson W., **Liu R.**, Jordan M. I., Broderick T. “Return of the Infinitesimal Jackknife.” *Conference on Artificial Intelligence and Statistics, in review*. April 2019. [https://arxiv.org/pdf/1806.00550.pdf](https://arxiv.org/pdf/1806.00550.pdf). 
 
+**Liu R.**, Giordano R., Jordan M. I., Broderick T. “Evaluating Sensitivity to the Stick Breaking Prior in Bayesian Nonparametrics.” *NIPS, All of Bayesian Nonparametrics Workshop.* December 2018.  [https://arxiv.org/pdf/1810.06587.pdf](https://arxiv.org/pdf/1810.06587.pdf).<br>
+ -- Selected for ISBA@NIPS  Award 
+        
 Giordano R., **Liu, R.**, Varoquaux N., Jordan M. I., Broderick T. “Measuring Cluster Stability for Bayesian Nonparametrics Using the Linear Bootstrap.” *NIPS, Advances in Approximate Bayesian Inference Workshop*. December 2017. [https://arxiv.org/pdf/1712.01435.pdf](https://arxiv.org/pdf/1712.01435.pdf).
 
 
