@@ -2,7 +2,7 @@
 layout: default
 title: Runjing (Bryan) Liu
 ---
-<img src="images/my_photo.jpg" style="width:25%; transform:rotate(270deg); border:10px solid; margin-right: 60px" align="left">
+<img src="images/my_photo.jpg" style="width:25%; transform:rotate(270deg); border:10px solid white; margin-right: 60px" align="left">
 
 # Runjing (Bryan) Liu
 
