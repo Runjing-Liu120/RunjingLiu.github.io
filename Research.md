@@ -16,6 +16,8 @@ I also work on methods for efficient quantification of Bayesian sensitivity to p
 
 ## Publications 
 
+**Liu R.**, McAuliffe J., Regier J. "Rao-Blackwellized Stochastic Gradients for Discrete Distributions."  [https://arxiv.org/abs/2102.02409](https://arxiv.org/abs/2102.02409). 
+
 **Liu R.**, Regier J., Tripuraneni N., Jordan M. I., McAuliffe J. "Rao-Blackwellized Stochastic Gradients for Discrete Distributions." *International Conference on Machine Learning*. June 2019. [https://arxiv.org/pdf/1810.04777.pdf](https://arxiv.org/pdf/1810.04777.pdf). 
 
 Giordano R., Stephenson W., **Liu R.**, Jordan M. I., Broderick T. “A Swiss Army Infinitesimal Jackknife
