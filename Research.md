@@ -28,7 +28,7 @@ Artificial Intelligence and Statistics*. April 2019. [https://arxiv.org/abs/1806
 **Liu R.**, Giordano R., Jordan M. I., Broderick T. “Evaluating Sensitivity to the Stick Breaking Prior in Bayesian Nonparametrics.” *NIPS, All of Bayesian Nonparametrics Workshop.* December 2018.  [https://arxiv.org/abs/1810.06587](https://arxiv.org/abs/1810.06587).<br>
  -- Selected for ISBA@NIPS  Award and contributed talk. 
         
-Giordano R., **Liu, R.**, Varoquaux N., Jordan M. I., Broderick T. “Measuring Cluster Stability for Bayesian Nonparametrics Using the Linear Bootstrap.” *NIPS, Advances in Approximate Bayesian Inference Workshop*. December 2017. [https://arxiv.org/pdf/1712.01435.pdf](https://arxiv.org/pdf/1712.01435.pdf).
+Giordano R., **Liu, R.**, Varoquaux N., Jordan M. I., Broderick T. “Measuring Cluster Stability for Bayesian Nonparametrics Using the Linear Bootstrap.” *NIPS, Advances in Approximate Bayesian Inference Workshop*. December 2017. [https://arxiv.org/abs/1712.01435](https://arxiv.org/abs/1712.01435).
 
 
 
