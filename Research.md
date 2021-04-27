@@ -16,9 +16,9 @@ I also work on methods for efficient quantification of Bayesian sensitivity to p
 
 ## Publications 
 
-**Liu R.**, McAuliffe J., Regier J. "Variational Inference for Deblending Crowded Starfields."  [https://arxiv.org/abs/2102.02409](https://arxiv.org/abs/2102.02409). 
+**Liu R.**, McAuliffe J. D., Regier J. "Variational Inference for Deblending Crowded Starfields."  [https://arxiv.org/abs/2102.02409](https://arxiv.org/abs/2102.02409). 
 
-**Liu R.**, Regier J., Tripuraneni N., Jordan M. I., McAuliffe J. "Rao-Blackwellized Stochastic Gradients for Discrete Distributions." *International Conference on Machine Learning*. June 2019. [https://arxiv.org/abs/1810.04777](https://arxiv.org/abs/1810.04777). 
+**Liu R.**, Regier J., Tripuraneni N., Jordan M. I., McAuliffe J. D. "Rao-Blackwellized Stochastic Gradients for Discrete Distributions." *International Conference on Machine Learning*. June 2019. [https://arxiv.org/abs/1810.04777](https://arxiv.org/abs/1810.04777). 
 
 Giordano R., Stephenson W., **Liu R.**, Jordan M. I., Broderick T. “A Swiss Army Infinitesimal Jackknife
 .” *International Conference on 
