@@ -1,0 +1,68 @@
+## Basic Configuration
+
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Erlich Bachman"
+title = "Erlich Bachman"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Runjing (Bryan) LIu"
+intro = "Statistician"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "https://github.com/Runjing-Liu120"
+twitter = "RunjingBryanLiu"
+email = "runjing_liu@berkeley.edu"
+
+## Extras
+[params.extra]
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 1
+    url = "about"
+[[menu.main]]
+    name = "research"
+    identifier = "research"
+    weight = 2
+    url = "/research/"
+[[menu.main]]
+    name = "teaching"
+    identifier = "teaching"
+    weight = 3
+    url = "teaching"
+[[menu.main]]
+    name = "cv"
+    weight = 100
+    identifier = "cv"
+    url = "cv"
