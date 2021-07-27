@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://runjing-liu120.github.io"
+baseurl = "https://runjing-liu120.github.io/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
