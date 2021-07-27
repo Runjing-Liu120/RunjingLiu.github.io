@@ -33,7 +33,7 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "https://github.com/Runjing-Liu120"
+github = "Runjing-Liu120"
 twitter = "RunjingBryanLiu"
 email = "runjing_liu@berkeley.edu"
 
