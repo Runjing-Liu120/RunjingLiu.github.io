@@ -16,7 +16,9 @@ I also work on methods for efficient quantification of Bayesian sensitivity to p
 
 ## Publications 
 
-**Liu R.**, McAuliffe J. D., Regier J. "Variational Inference for Deblending Crowded Starfields."  [https://arxiv.org/abs/2102.02409](https://arxiv.org/abs/2102.02409). 
+Giordano R., **Liu R.**, Jordan M. I., Broderick T. "Evaluating Sensitivity to the Stick-Breaking Prior in Bayesian Nonparametrics." *Bayesian Analysis* 18(1): 287-366, 2023. [https://arxiv.org/abs/1810.06587](https://arxiv.org/abs/1810.06587).
+
+**Liu R.**, McAuliffe J. D., Regier J. "Variational Inference for Deblending Crowded Starfields."  *Journal of Machine Learning Research* 24(179):1--36, 2023. [https://jmlr.org/papers/v24/21-0169.html](https://jmlr.org/papers/v24/21-0169.html). 
 
 **Liu R.**, Regier J., Tripuraneni N., Jordan M. I., McAuliffe J. D. "Rao-Blackwellized Stochastic Gradients for Discrete Distributions." *International Conference on Machine Learning*. June 2019. [https://arxiv.org/abs/1810.04777](https://arxiv.org/abs/1810.04777). 
 
