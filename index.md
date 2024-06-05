@@ -11,5 +11,6 @@ I am a graduate of the [U.C. Berkeley Statistics Department](https://statistics.
 
 Previously, I graduated from Duke University in 2016 with a Bachelor of Science in mathematics. 
 
-Currently, I am a member of the research staff at Voleon, a quantatitative hedge fund based in Berkeley. 
-Those interested in quantatitative finance roles can visit [Voleon's career page](https://voleon.com/jobs/), or reach out to me directly via email.
+Currently, I am a member of the research staff at [Voleon](https://voleon.com/), a quantatitative hedge fund based in Berkeley. 
+Those interested in quantatitative finance roles can visit [Voleon's career page](https://voleon.com/jobs/), 
+or reach out to me directly via email.
